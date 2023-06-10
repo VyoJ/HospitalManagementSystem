@@ -1,1 +1,1 @@
-# HospitalManagementSystem
+This project will develop a basic hospital management system that will improve the efficiency and effectiveness of hospital operations. The system will provide a user interface for doctors and patients to book appointments, view patient details, and track vaccine records. The system will also provide admin features for managing the hospital's staff and patients.
